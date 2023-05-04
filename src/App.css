@@ -28,7 +28,7 @@
 }
 
 .Movie-wrapper {
-  width: 500px;
+  width: 400px;
   background-color: antiquewhite;
   color: black;
 }
@@ -48,6 +48,10 @@
   height: 60px;
   font-weight: bold;
   padding-bottom: 26px;
+}
+
+.Movie-image {
+  width: 350px;
 }
 
 .Movie-date {

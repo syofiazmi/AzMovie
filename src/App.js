@@ -37,7 +37,7 @@ const [popularMovies, setPopularMovies] = useState([])
   return (
     <div className="App">
       <header className="App-header">
-        <h1>AzetMovie</h1>
+        <h1>AZ MOVIE</h1>
         <input
           type="text"
           className="Movie-search"
